@@ -1,0 +1,370 @@
+{
+  "source_id": "de_an_ai_ptit_2024",
+  "title": "Đề án mở chương trình đào tạo trình độ đại học ngành Trí tuệ nhân tạo (Mã ngành: 7480107)",
+  "organization": "Học viện Công nghệ Bưu chính Viễn thông (PTIT)",
+  "source_path_or_url": "data/De-an-mo-nganh-AI_Final.pdf",
+  "license_or_permission": "Tài liệu đề án công khai của Học viện Công nghệ Bưu chính Viễn thông, sử dụng cho mục đích học tập và nghiên cứu kỹ thuật dữ liệu",
+  "accessed_at": "2026-11-13",
+  "total_physical_pages": 57,
+  "content_pages_count": 54,
+  "excluded_pages": [
+    1,
+    2,
+    3
+  ],
+  "counting_rule": "Chỉ tính các trang có nội dung thực tế (từ trang vật lý 4 đến trang vật lý 57); loại bỏ trang 1 (bìa) và trang 2, 3 (mục lục).",
+  "sections": {
+    "phan_1": {
+      "title": "Giới thiệu khái quát về Học viện Công nghệ Bưu chính Viễn thông",
+      "physical_pages": "4-11",
+      "printed_pages": "1-8"
+    },
+    "phan_2": {
+      "title": "Sự cần thiết mở ngành đào tạo Trí tuệ nhân tạo",
+      "physical_pages": "12-41",
+      "printed_pages": "9-38"
+    },
+    "phan_3": {
+      "title": "Chương trình đào tạo ngành Trí tuệ nhân tạo",
+      "physical_pages": "42-43",
+      "printed_pages": "39-40"
+    },
+    "phan_4": {
+      "title": "Năng lực của cơ sở đào tạo",
+      "physical_pages": "44-55",
+      "printed_pages": "41-52"
+    },
+    "phan_5": {
+      "title": "Kết luận và kiến nghị",
+      "physical_pages": "56-57",
+      "printed_pages": "53-54"
+    }
+  },
+  "pages_detail": [
+    {
+      "physical_page": 4,
+      "printed_page": 1,
+      "section": "phan_1",
+      "char_count": 2045
+    },
+    {
+      "physical_page": 5,
+      "printed_page": 2,
+      "section": "phan_1",
+      "char_count": 2457
+    },
+    {
+      "physical_page": 6,
+      "printed_page": 3,
+      "section": "phan_1",
+      "char_count": 2696
+    },
+    {
+      "physical_page": 7,
+      "printed_page": 4,
+      "section": "phan_1",
+      "char_count": 2378
+    },
+    {
+      "physical_page": 8,
+      "printed_page": 5,
+      "section": "phan_1",
+      "char_count": 3053
+    },
+    {
+      "physical_page": 9,
+      "printed_page": 6,
+      "section": "phan_1",
+      "char_count": 3282
+    },
+    {
+      "physical_page": 10,
+      "printed_page": 7,
+      "section": "phan_1",
+      "char_count": 3046
+    },
+    {
+      "physical_page": 11,
+      "printed_page": 8,
+      "section": "phan_1",
+      "char_count": 1743
+    },
+    {
+      "physical_page": 12,
+      "printed_page": 9,
+      "section": "phan_2",
+      "char_count": 3050
+    },
+    {
+      "physical_page": 13,
+      "printed_page": 10,
+      "section": "phan_2",
+      "char_count": 2031
+    },
+    {
+      "physical_page": 14,
+      "printed_page": 11,
+      "section": "phan_2",
+      "char_count": 3106
+    },
+    {
+      "physical_page": 15,
+      "printed_page": 12,
+      "section": "phan_2",
+      "char_count": 3313
+    },
+    {
+      "physical_page": 16,
+      "printed_page": 13,
+      "section": "phan_2",
+      "char_count": 3372
+    },
+    {
+      "physical_page": 17,
+      "printed_page": 14,
+      "section": "phan_2",
+      "char_count": 2613
+    },
+    {
+      "physical_page": 18,
+      "printed_page": 15,
+      "section": "phan_2",
+      "char_count": 3298
+    },
+    {
+      "physical_page": 19,
+      "printed_page": 16,
+      "section": "phan_2",
+      "char_count": 2332
+    },
+    {
+      "physical_page": 20,
+      "printed_page": 17,
+      "section": "phan_2",
+      "char_count": 1147
+    },
+    {
+      "physical_page": 21,
+      "printed_page": 18,
+      "section": "phan_2",
+      "char_count": 1638
+    },
+    {
+      "physical_page": 22,
+      "printed_page": 19,
+      "section": "phan_2",
+      "char_count": 3489
+    },
+    {
+      "physical_page": 23,
+      "printed_page": 20,
+      "section": "phan_2",
+      "char_count": 3546
+    },
+    {
+      "physical_page": 24,
+      "printed_page": 21,
+      "section": "phan_2",
+      "char_count": 1890
+    },
+    {
+      "physical_page": 25,
+      "printed_page": 22,
+      "section": "phan_2",
+      "char_count": 1062
+    },
+    {
+      "physical_page": 26,
+      "printed_page": 23,
+      "section": "phan_2",
+      "char_count": 3417
+    },
+    {
+      "physical_page": 27,
+      "printed_page": 24,
+      "section": "phan_2",
+      "char_count": 3106
+    },
+    {
+      "physical_page": 28,
+      "printed_page": 25,
+      "section": "phan_2",
+      "char_count": 2536
+    },
+    {
+      "physical_page": 29,
+      "printed_page": 26,
+      "section": "phan_2",
+      "char_count": 2560
+    },
+    {
+      "physical_page": 30,
+      "printed_page": 27,
+      "section": "phan_2",
+      "char_count": 2392
+    },
+    {
+      "physical_page": 31,
+      "printed_page": 28,
+      "section": "phan_2",
+      "char_count": 2815
+    },
+    {
+      "physical_page": 32,
+      "printed_page": 29,
+      "section": "phan_2",
+      "char_count": 2840
+    },
+    {
+      "physical_page": 33,
+      "printed_page": 30,
+      "section": "phan_2",
+      "char_count": 3014
+    },
+    {
+      "physical_page": 34,
+      "printed_page": 31,
+      "section": "phan_2",
+      "char_count": 2959
+    },
+    {
+      "physical_page": 35,
+      "printed_page": 32,
+      "section": "phan_2",
+      "char_count": 2988
+    },
+    {
+      "physical_page": 36,
+      "printed_page": 33,
+      "section": "phan_2",
+      "char_count": 2468
+    },
+    {
+      "physical_page": 37,
+      "printed_page": 34,
+      "section": "phan_2",
+      "char_count": 2294
+    },
+    {
+      "physical_page": 38,
+      "printed_page": 35,
+      "section": "phan_2",
+      "char_count": 2318
+    },
+    {
+      "physical_page": 39,
+      "printed_page": 36,
+      "section": "phan_2",
+      "char_count": 2746
+    },
+    {
+      "physical_page": 40,
+      "printed_page": 37,
+      "section": "phan_2",
+      "char_count": 2845
+    },
+    {
+      "physical_page": 41,
+      "printed_page": 38,
+      "section": "phan_2",
+      "char_count": 2389
+    },
+    {
+      "physical_page": 42,
+      "printed_page": 39,
+      "section": "phan_3",
+      "char_count": 2626
+    },
+    {
+      "physical_page": 43,
+      "printed_page": 40,
+      "section": "phan_3",
+      "char_count": 1281
+    },
+    {
+      "physical_page": 44,
+      "printed_page": 41,
+      "section": "phan_4",
+      "char_count": 1633
+    },
+    {
+      "physical_page": 45,
+      "printed_page": 42,
+      "section": "phan_4",
+      "char_count": 2323
+    },
+    {
+      "physical_page": 46,
+      "printed_page": 43,
+      "section": "phan_4",
+      "char_count": 2331
+    },
+    {
+      "physical_page": 47,
+      "printed_page": 44,
+      "section": "phan_4",
+      "char_count": 2400
+    },
+    {
+      "physical_page": 48,
+      "printed_page": 45,
+      "section": "phan_4",
+      "char_count": 2802
+    },
+    {
+      "physical_page": 49,
+      "printed_page": 46,
+      "section": "phan_4",
+      "char_count": 3028
+    },
+    {
+      "physical_page": 50,
+      "printed_page": 47,
+      "section": "phan_4",
+      "char_count": 1560
+    },
+    {
+      "physical_page": 51,
+      "printed_page": 48,
+      "section": "phan_4",
+      "char_count": 1623
+    },
+    {
+      "physical_page": 52,
+      "printed_page": 49,
+      "section": "phan_4",
+      "char_count": 1549
+    },
+    {
+      "physical_page": 53,
+      "printed_page": 50,
+      "section": "phan_4",
+      "char_count": 1411
+    },
+    {
+      "physical_page": 54,
+      "printed_page": 51,
+      "section": "phan_4",
+      "char_count": 1485
+    },
+    {
+      "physical_page": 55,
+      "printed_page": 52,
+      "section": "phan_4",
+      "char_count": 982
+    },
+    {
+      "physical_page": 56,
+      "printed_page": 53,
+      "section": "phan_5",
+      "char_count": 2564
+    },
+    {
+      "physical_page": 57,
+      "printed_page": 54,
+      "section": "phan_5",
+      "char_count": 1516
+    }
+  ],
+  "total_content_characters": 131388
+}

@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed,500,50,source_page_section,none,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,Baseline fixed-size window without semantic boundaries,6/15,12/15,3/5,3/5,Chunk count: 317
+B,paragraph,800,0,source_page_section,none,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,Paragraph chunking preserves context and sentence integrity,6/15,9/15,3/5,3/5,Chunk count: 209
+C,paragraph,800,0,source_page_section,section_filter,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,Paragraph chunking + metadata filter eliminates cross-section noise,6/15,11/15,3/5,3/5,Chunk count: 209
